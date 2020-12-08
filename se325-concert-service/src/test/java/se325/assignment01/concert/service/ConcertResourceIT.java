@@ -30,7 +30,7 @@ public class ConcertResourceIT {
     private Client client;
 
     /**
-     * Ensures the DB is in the same state before running each test.
+     * Ensures the DB is in the same state before running each test. test
      */
     @Before
     public void setUp() {
