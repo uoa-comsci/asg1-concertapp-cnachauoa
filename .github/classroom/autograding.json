@@ -8,7 +8,7 @@
       "output": "",
       "timeout": 10,
       "points": 24
-    }
+    },
     {
       "name": "test subscription1",
       "setup": "",
@@ -17,7 +17,7 @@
       "output": "",
       "timeout": 10,
       "points": 4
-    }
+    },
     {
       "name": "test subscription2",
       "setup": "",
@@ -26,7 +26,7 @@
       "output": "",
       "timeout": 10,
       "points": 4
-    }
+    },
     {
       "name": "test subscription3",
       "setup": "",
@@ -35,7 +35,7 @@
       "output": "",
       "timeout": 10,
       "points": 2
-    }
+    },
     {
       "name": "test subscription4",
       "setup": "",
